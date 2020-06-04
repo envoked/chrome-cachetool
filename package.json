@@ -22,7 +22,8 @@
     "cachetool"
   ],
   "os": [
-    "darwin"
+    "darwin",
+    "linux"
   ],
   "author": "Felix Rieseberg <felix@felixrieseberg.com>",
   "license": "MIT",
